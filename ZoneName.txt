@@ -1,0 +1,23 @@
+ZoneCorrupt искажение
+ZoneHoly св€тые земли
+ZoneMeteor метеорит
+ZoneJungle джунгли
+ZoneSnow снежный биом
+ZoneCrimson кримзон
+ZoneWaterCandle 
+ZonePeaceCandle
+ZoneTowerSolar башн€ сол€р
+ZoneTowerVortex башн€ вортекс
+ZoneTowerNebula башн€ небулы
+ZoneTowerStardust башн€ стардаст
+ZoneDesert пустын€ 
+ZoneGlowshroom грибной биом
+ZoneUndergroundDesert подземелье пустыни
+ZoneSkyHeight космос
+ZoneOverworldHeight
+ZoneDirtLayerHeight
+ZoneRockLayerHeight
+ZoneUnderworldHeight
+ZoneBeach океан
+ZoneRain дождь
+ZoneSandstorm песчанна€ бур€

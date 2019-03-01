@@ -1,0 +1,12 @@
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Elements.dll
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Elements.pdb
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\bin\Debug\Terraria.exe
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\obj\Debug\Elements.csprojAssemblyReference.cache
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\obj\Debug\Elements.csproj.CoreCompileInputs.cache
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\obj\Debug\Elements.csproj.CopyComplete
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\obj\Debug\Elements.dll
+C:\Users\danya\Documents\My Games\Terraria\ModLoader\Mod Sources\Elements\obj\Debug\Elements.pdb
